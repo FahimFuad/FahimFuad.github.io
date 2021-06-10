@@ -3,6 +3,9 @@ title        = "My Blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
+enableRobotsTXT = true
+enableEmoji = true
+publishdir = "docs"
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -44,4 +47,4 @@ paginate     = 10
   [[menu.main]]
     identifier = "blog"
     name       = "Blog"
-    url        = "/posts"
+    url        = "posts"

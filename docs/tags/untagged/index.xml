@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>RidLines</title>
-    <link>https://fahumfuad.github.io/</link>
-    <description>Recent content on RidLines</description>
+    <title>untagged on RidLines</title>
+    <link>https://fahumfuad.github.io/tags/untagged/</link>
+    <description>Recent content in untagged on RidLines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Jun 2021 12:54:57 +0600</lastBuildDate><atom:link href="https://fahumfuad.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Jun 2021 12:54:57 +0600</lastBuildDate><atom:link href="https://fahumfuad.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cascaded Shadow Mapping</title>
       <link>https://fahumfuad.github.io/posts/cascadedshadowmapping/</link>
