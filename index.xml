@@ -7,5 +7,15 @@
     <language>en-us</language>
     <atom:link href="https://fahimfuad.github.io/" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>About</title>
+      <link>https://fahimfuad.github.io/about/</link>
+      <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fahimfuad.github.io/about/</guid>
+      <description>&lt;p&gt;Hey, my name is Fahim Fuad. I am a student of class 11 of St. Joseph Higher Secondary School! My main interest is on Programming and graphics engine development!&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
